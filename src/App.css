@@ -1,0 +1,43 @@
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+  padding: 120px;
+}
+
+.icons > div {
+  width: 180px;
+}
+
+.hero {
+  background-color: #1f2535;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 20px;
+  padding-bottom: 60px;
+  color: white;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App {
+  margin: 20px;
+}
+
+.head {
+  padding: 40px;
+}
+
+.head > h1 {
+  width: 300px;
+  font-weight: 600;
+}
+
+.head > p {
+  width: 200px;
+}
